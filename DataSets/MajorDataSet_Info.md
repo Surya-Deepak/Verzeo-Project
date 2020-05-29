@@ -7,10 +7,10 @@ The Major project contains the features like:
     
     Review -> Review Given by the customer who bought
     
-    Title -> Title o the Review
+    Title -> Title of the Review
 
     Rating -> Rating given to the cloth
 
     Recoomend_IND -> 1 means recommended else not
 
-    Possitve_Feedback -> Count of Possitive feedbacksgiven
+    Possitve_Feedback -> Count of Possitive feedbacks given
