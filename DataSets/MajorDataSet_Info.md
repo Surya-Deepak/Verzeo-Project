@@ -1,5 +1,6 @@
 ## DataSet_Info
 The Major project contains the features like:
+
     ClothingID -> Id of the Cloth bought
 
     Age -> Person whobought the cloth
